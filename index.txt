@@ -1,0 +1,8 @@
+hi all
+
+1) create a repository in github
+2) in the terminal -> git init
+3) add the file you need to push inside the git -> git add .
+4) then commit -> git commit -am "initial commit"
+5) git remote add origin https://github.com/poojasrisakthivel/sample-github.git
+6) then push -> git push origin main(branchname)
