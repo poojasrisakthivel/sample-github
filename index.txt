@@ -6,3 +6,5 @@ hi all
 4) then commit -> git commit -am "initial commit"
 5) git remote add origin https://github.com/poojasrisakthivel/sample-github.git
 6) then push -> git push origin main(branchname)
+
+cloned one
